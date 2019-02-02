@@ -61,6 +61,7 @@ Photon (4.8)    | release   | `http://download.eclipse.org/buildship/updates/e48
 Photon (4.8)    | milestone | `http://download.eclipse.org/buildship/updates/e48/milestones/2.x`
 Photon (4.8)    | snapshot  | `http://download.eclipse.org/buildship/updates/e48/snapshots/2.x`
 Oxygen (4.7)    | release   | `http://download.eclipse.org/buildship/updates/e47/releases/2.x`
+Oxygen (4.7)    | release   | `http://download.eclipse.org/buildship/updates/e47/releases/2.x`
 Oxygen (4.7)    | milestone | `http://download.eclipse.org/buildship/updates/e47/milestones/2.x`
 Oxygen (4.7)    | snapshot  | `http://download.eclipse.org/buildship/updates/e47/snapshots/2.x`
 Neon (4.6)      | release   | `http://download.eclipse.org/buildship/updates/e46/releases/2.x`
